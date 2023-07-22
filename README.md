@@ -1,5 +1,7 @@
 # Akatsuki DAO
 
+![image](https://drive.google.com/uc?export=download&id=1sYhunPJTl_rSY33PBNgNzygiu3tFOg1t)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
